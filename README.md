@@ -4,11 +4,13 @@ General project for learning
 Python
 NPM
 ## Installation
-npm install in main directory
-npm install in python_django_react/frontend
+1. npm install in main directory
+2. npm install in python_django_react/frontend
 ## Running
-cd python_django_react
-python .\manage.py runserver
+### Django + Python
+1. cd python_django_react
+2. python .\manage.py runserver
 
-cd python_django_react\frontend
-npm run dev
+### React
+1. cd python_django_react\frontend
+2. npm run dev
